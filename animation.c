@@ -1,8 +1,4 @@
-/* assignment - 1
- * data structure and algorithms
- * coded  by : aditya patel
- * roll no : 2k22/co/31
- *  */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
